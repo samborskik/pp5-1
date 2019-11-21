@@ -1,4 +1,5 @@
-package pl.krakow.uek.pp5.qwark97.creditcard;
+package pl.krakow.uek.pp5.creditcard.model;
+
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

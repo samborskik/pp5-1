@@ -1,4 +1,4 @@
-package pl.krakow.uek.pp5.qwark97.creditcard;
+package pl.krakow.uek.pp5.creditcard.model;
 
 import pl.krakow.uek.pp5.qwark97.creditcard.exceptions.CreditBelowMinimumException;
 import pl.krakow.uek.pp5.qwark97.creditcard.exceptions.NotEnoughMoneyException;

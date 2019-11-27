@@ -1,4 +1,4 @@
-package pl.krakow.uek.pp5.creditcard.model.model;
+package pl.krakow.uek.pp5.creditcard.model;
 
 import java.math.BigDecimal;
 
